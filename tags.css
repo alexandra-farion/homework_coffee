@@ -64,6 +64,27 @@ button {
     color: #817070;
 }
 
+button:hover {
+    width: 129px;
+    height: 55px;
+    left: 655px;
+    top: 224px;
+
+    background: navajowhite;
+    border: 3px solid navajowhite;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #817070;
+}
+
 footer {
     width: 1440px;
     height: 72px;
