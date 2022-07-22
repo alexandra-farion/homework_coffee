@@ -1,0 +1,41 @@
+.img_for_story {
+    width: 600px;
+    height: 400px;
+    left: 80px;
+    top: 173px;
+
+    margin-right: 40px;
+
+    background: url(https://source.unsplash.com/X4RJG4aNi8o/1920x1080);
+    background-size: cover;
+}
+
+.img_for_frame7 {
+    width: 325px;
+    height: 216px;
+
+    margin-bottom: 24px;
+
+    background: url(https://source.unsplash.com/CSQQ6_T0sks/1920x1080);
+    background-size: cover;
+}
+
+.img_for_frame6 {
+    width: 325px;
+    height: 216px;
+
+    margin-bottom: 24px;
+
+    background: url(https://source.unsplash.com/TYIzeCiZ_60/1920x1080);
+    background-size: cover;
+}
+
+.img_for_frame8 {
+    width: 325px;
+    height: 216px;
+
+    margin-bottom: 24px;
+
+    background: url(https://source.unsplash.com/9rTEwV_G0Do/1920x1080);
+    background-size: cover;
+}

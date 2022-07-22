@@ -1,0 +1,177 @@
+.text_home {
+    text-decoration: none;
+    padding-top: 37px;
+    margin-right: 46px;
+    color: black;
+    vertical-align: center;
+    display: block;
+}
+.text_story {
+    text-decoration: none;
+    padding-top: 37px;
+    margin-right: 46px;
+    color: black;
+    vertical-align: center;
+    display: block;
+}
+.text_blog {
+    text-decoration: none;
+    padding-top: 37px;
+    margin-right: 46px;
+    color: black;
+    vertical-align: center;
+    display: block;
+}
+
+.text_subscribe {
+    text-decoration: none;
+    padding-top: 37px;
+    color: black;
+    vertical-align: center;
+    display: block;
+    padding-right: 80px;
+}
+
+.text_for_home {
+    width: 399px;
+    height: 89px;
+    left: 520px;
+    top: 266px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 89px;
+
+    white-space: nowrap;
+
+    padding-left: 522px;
+    padding-top: 267px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.h_text_for_story {
+    width: 91px;
+    height: 53px;
+    left: 674px;
+    top: 60px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+
+    margin-left: 674px;
+    margin-top: 18px;
+
+    color: #000000;
+}
+
+.text_for_story {
+    width: 597px;
+    height: 180px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+
+    padding-bottom: 169px;
+
+    color: #000000;
+}
+
+.h_text_for_blog {
+    width: 76px;
+    height: 53px;
+    left: 682px;
+    top: 60px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+    margin-left: 682px;
+    margin-top: 60px;
+}
+
+.h_text_for_frame7 {
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    margin-top: 20px;
+    margin-bottom: 24px;
+
+    color: #000000;
+}
+
+.text_for_frame7 {
+    width: 325px;
+    height: 108px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+.h_text_for_contact {
+    width: 161px;
+    height: 53px;
+    left: 640px;
+    top: 60px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+
+    padding-left: 640px;
+    padding-top: 60px;
+
+    margin-bottom: 28px;
+
+    color: #FFFFFF;
+}
+
+.text_for_footer {
+    width: 147px;
+    height: 30px;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+
+    padding-left: 647px;
+    padding-top: 29px;
+
+    white-space: nowrap;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}

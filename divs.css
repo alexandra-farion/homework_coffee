@@ -1,0 +1,130 @@
+.logo {
+    width: 270px;
+    height: 53px;
+
+    font-family: 'Oswald', fantasy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 29px;
+    padding-left: 80px;
+    margin-right: 684px;
+    white-space: nowrap;
+
+    color: #000000;
+}
+
+.home {
+    width: 1440px;
+    height: 622px;
+    left: 0;
+    top: 111px;
+
+    background: url(https://source.unsplash.com/vSuQJKZkt4U/1920x1080);
+    background-size: cover;
+}
+
+.align_for_line {
+    padding-left: 689px;
+}
+
+.line {
+    width: 80px;
+    height: 10px;
+    left: 687px;
+    top: 362px;
+
+    background: #817070;
+}
+
+.for_story {
+    width: 1440px;
+    height: 632px;
+    left: 0;
+    top: 733px;
+}
+
+.align_for_story {
+    display: flex;
+    padding-top: 60px;
+    padding-left: 80px;
+    padding-right: 123px;
+}
+
+.for_blog {
+    width: 1440px;
+    height: 711px;
+    left: 0;
+    top: 1365px;
+
+    padding-top: 60px;
+
+    background: #EFEFEF;
+}
+
+.align_for_blog {
+    display: flex;
+    padding-top: 59px;
+    padding-left: 102px;
+    padding-right: 103px;
+}
+
+.frame7 {
+    width: 365px;
+    height: 474px;
+    left: 102px;
+    top: 172px;
+
+    margin-right: 70px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+}
+
+.frame6 {
+    width: 365px;
+    height: 474px;
+    left: 537px;
+    top: 172px;
+
+    margin-right: 70px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+}
+
+.frame8 {
+    width: 365px;
+    height: 474px;
+    left: 972px;
+    top: 172px;
+
+    padding-right: 20px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+}
+
+.contact {
+    width: 1440px;
+    height: 337px;
+    left: 0;
+    top: 2076px;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    text-align: center;
+
+    background: #817070;
+}
+
+.input_for_contact {
+    margin-bottom: 28px;
+}
