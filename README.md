@@ -1,1 +1,1 @@
-# homework_coffee
+Completed tasks from the frontend training course
