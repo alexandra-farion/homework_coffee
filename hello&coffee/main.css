@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Snell Roundhand, cursive;
+}
+
+html, body {
+    height: 100%;
+}
+
+main {
+    background-color: #ECE1D9;
+    height: calc(100% - (80px));
+}
+
+header, footer {
+    background-color: #C6A48C;
+    height: 40px;
+}

@@ -1,0 +1,27 @@
+.welcome {
+    font-family: Snell Roundhand, cursive;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.container {
+    height: 25px;
+    text-overflow: ellipsis;
+    border-radius: 10px;
+    border-color: #C6A48C;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 10pt;
+}
+
+
+.registration {
+    padding: 10px;
+}
+
+.img {
+    width: 600px;
+    height: 400px;
+    background-image: url("coffee.png");
+    background-size: cover;
+}
